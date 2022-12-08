@@ -36,7 +36,7 @@ EX: go run . --color=<color> <letters to be colored> "something"
 
 ###### Does it display the expected result (the corresponding set of letters with that color)?
 
-##### Try passing as arguments `--color=orange "HeY GuYs"`, in order to color `GuYs`.
+// Remove this test ##### Try passing as arguments `--color=orange "HeY GuYs"`, in order to color `GuYs`.
 
 ###### Does it display the expected result?
 
